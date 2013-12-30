@@ -1,0 +1,3 @@
+[submodule "themes/zenburn"]
+	path = themes/zenburn
+	url = git@github.com:chrisdone/zenburn.git
